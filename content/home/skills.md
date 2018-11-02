@@ -1,6 +1,7 @@
 +++
 # Feature/Skill widget.
-widget = "featurette"  # Do not modify this line!
+# widget = "featurette"  # Do not modify this line!
+widget = "custom"
 date = 2017-09-20T00:00:00
 
 # Activate this widget? true/false
@@ -10,7 +11,7 @@ title = "Skills"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 7
+weight = 67
 
 # Showcase personal skills or business features.
 # 
@@ -21,22 +22,30 @@ weight = 7
 # * fab - Font Awesome brand icons (see https://fontawesome.com/icons)
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
-[[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
-  
-[[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
-
+# [[feature]]
+#   icon = "r-project"
+#   icon_pack = "fab"
+#   name = "R"
+#   description = "90%"
+#   
+# [[feature]]
+#   icon = "chart-line"
+#   icon_pack = "fas"
+#   name = "Statistics"
+#   description = "100%"  
+#   
+# [[feature]]
+#   icon = "camera-retro"
+#   icon_pack = "fas"
+#   name = "Photography"
+#   description = "10%"
 +++
+
+**Natural Languages**: Chinse (natvie), English (TOEFL 109, GRE 326 / 3.5)
+
+**Programming Languages**: Python, C/C++, Shell, Javascript, Matlab, LaTeX
+
+**Operating System**: Linux (Arch Linux & Ubuntu), Windows
+
+**Deep Learning Libraries**: Tensorflow, PyTorch, Keras
+
