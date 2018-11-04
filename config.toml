@@ -259,10 +259,10 @@ enableGitInfo = false
     icon_pack = "fab"
     link = "https://github.com/Daikon-Sun"
 
-  [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fab"
-    link = "https://www.linkedin.com/in/%E5%87%A1%E8%80%95-%E5%AD%AB-750066117/"
+  # [[params.social]]
+  #   icon = "linkedin"
+  #   icon_pack = "fab"
+  #   link = "https://www.linkedin.com/in/%E5%87%A1%E8%80%95-%E5%AD%AB-750066117/"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -304,6 +304,11 @@ enableGitInfo = false
   url = "#teaching"
   weight = 5
 
+[[menu.main]]
+  name = "Honors & Awards"
+  url = "#honors"
+  weight = 6
+
 # [[menu.main]]
 #   name = "Posts"
 #   url = "#posts"
@@ -312,7 +317,7 @@ enableGitInfo = false
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 7
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
