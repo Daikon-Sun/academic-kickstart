@@ -13,7 +13,7 @@ title = "孫凡耕"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; 2019"
 
 theme = "academic"
 enableEmoji = true
@@ -99,7 +99,7 @@ enableGitInfo = false
 
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `dark`, `apogee`, `1950s`, `coffee`, `cupcake`.
-  color_theme = "default"
+  color_theme = "ocean"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -285,24 +285,29 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
+  name = "Experiences"
+  url = "#experience"
+  weight = 2
+
+[[menu.main]]
   name = "Publications"
   url = "#publications"
-  weight = 2
+  weight = 3
+
+[[menu.main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 4
 
 [[menu.main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 3
+  weight = 5
 
 # [[menu.main]]
 #   name = "Posts"
 #   url = "#posts"
 #   weight = 3
-
-# [[menu.main]]
-#   name = "Projects"
-#   url = "#projects"
-#   weight = 4
 
 [[menu.main]]
   name = "Contact"
@@ -311,10 +316,10 @@ enableGitInfo = false
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-[[menu.main]]
-   name = "CV"
-   url = "files/cv.pdf"
-   weight = 7
+# [[menu.main]]
+#    name = "CV"
+#    url = "files/cv.pdf"
+#    weight = 6
 
 # Search.
 [params.search]

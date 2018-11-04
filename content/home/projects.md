@@ -1,14 +1,14 @@
 +++
 # Projects widget.
 widget = "projects"
-active = false
+active = true
 date = 2016-04-20T00:00:00
 
 title = "Projects"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 50
+weight = 30
 
 # Content.
 # Display content from the following folder.
@@ -29,17 +29,21 @@ filter_default = 0
 # To show all items, set `tag` to "*".
 # To filter by a specific tag, set `tag` to an existing tag name.
 # To remove toolbar, delete/comment all instances of `[[filter]]` below.
-# [[filter]]
-#   name = "All"
-#   tag = "*"
-#
-# [[filter]]
-#   name = "Deep Learning"
-#   tag = "Deep Learning"
-#
-# [[filter]]
-#   name = "Other"
-#   tag = "Demo"
+[[filter]]
+  name = "All"
+  tag = "*"
+
+[[filter]]
+  name = "Machine Learning / Deep Learning"
+  tag = "ML & DL"
+
+[[filter]]
+  name = "Electronic Design Automation"
+  tag = "EDA"
+
+[[filter]]
+  name = "Other"
+  tag = "Other"
 
 +++
 
