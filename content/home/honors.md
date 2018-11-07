@@ -17,7 +17,6 @@ weight = 66
 # This is an example of using the *custom* widget to create your own homepage section.
 # 
 # To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`.
-
 +++
 
 ## Machine Learning / Deep Learning
@@ -30,7 +29,7 @@ weight = 66
 
 ## Electronic Design Automation
 
-* **Top 3**, Problem A at ICCAD CAD contest, 2018
+* **3rd Place**, Problem A at ICCAD CAD contest, 2018
 
 * **Top 10**, Problem B at ICCAD CAD contest, 2018
  
@@ -46,7 +45,7 @@ weight = 66
  
 * **3rd Place**, ACM ICPC Regional Contest, 2017
  
-* **2st Place**, ACM ICPC Regional Contest, 2016
+* **1st Place**, ACM ICPC Regional Contest, 2016
  
 * **1st Place**, Calculus World Cup, 2016
  
