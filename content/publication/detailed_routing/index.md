@@ -83,3 +83,7 @@ math = true
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Center"
 +++
+
+Link to the [paper](paper.pdf).
+
+Link to the [ACM DL](https://dl.acm.org/citation.cfm?id=3240777).

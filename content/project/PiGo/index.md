@@ -32,6 +32,6 @@ If there is Internet connection, the RPi is connected to a server with GPU, and 
 Otherwise, the user can play against a weaker version of AlphaGo Zero locally.
 A chatroom is also implemented so that two humans can play Go together.
 
-Link to our [report](report.pdf).
+Link to the [report](report.pdf).
 
-Link to [demo](https://drive.google.com/open?id=1caNG0tRBhQVUOxDP0oUImphVO8APv0h6).
+Link to the [demo](https://drive.google.com/open?id=1caNG0tRBhQVUOxDP0oUImphVO8APv0h6).

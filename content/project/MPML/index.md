@@ -32,9 +32,9 @@ Since the first paper about UCB [1] came out in 2002, there have been an ongoing
 In this paper, we survey starting from the original UCB [1], to improved versions UCBV [2], improved-UCB [3], and end at the state-of-the-art method [4].
 We also introduce the lower bound for a family of algorithms (consistent algorithms defined in [5]) and show the optimality of KL-UCB [6] in special case.
 
-Link to [paper](paper.pdf).
+Link to the [paper](paper.pdf).
 
-Link to [slides](slides.pdf).
+Link to the [slides](slides.pdf).
 
 #### Reference:
 [1] [Finite-time Analysis of the Multiarmed Bandit Problem](https://dl.acm.org/citation.cfm?id=599677), Auer P.; and Cesa-Bianchi N., In *Journal of Machine Learning, 2002*.

@@ -31,4 +31,4 @@ Most traffic jam can be alleviated if all traffic signals are dynamically adjust
 Following the idea, we designed and implemented a low-cost and real-time traffic signal system on NVIDIA Jetson TK1 using Fast-RCNN to detected the traffic flow and reinforcement learning to train the traffic signal switching interval model.
 Our system is effective on simple traffic simulation, and thus won the 2017 National Technology and Research Scholarship presented by CTCI Foundation.
 
-Link to our [poster](http://www.ctci.org.tw/media/4062/2017-%E5%89%B5%E6%84%8F%E7%8D%8E%E5%AD%B8%E9%87%912-10.jpg).
+Link to the [poster](http://www.ctci.org.tw/media/4062/2017-%E5%89%B5%E6%84%8F%E7%8D%8E%E5%AD%B8%E9%87%912-10.jpg).
