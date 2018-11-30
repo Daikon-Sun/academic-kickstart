@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "AI Traffic Control System"
+title = "AI Traffic Control System [CTCI Scholarship]"
 
 # Date this page was created.
 date = 2018-11-03

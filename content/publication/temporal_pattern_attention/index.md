@@ -1,5 +1,5 @@
 +++
-title = "Anonymous Title"
+title = "Temporal Pattern Attention for Multivariate Time Series Forecasting"
 date = 2018-10-03
 draft = false
 
@@ -18,11 +18,27 @@ authors = ["Shun-Yao Shih * ", "**Fan-Keng Sun** * ", "Hung-Yi Lee ( * denotes e
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Submitting to *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases*, 2019"
-publication_short = "Submitting to *ECML/PKDD*, 2019"
+publication = "Submitted to *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases*, 2019"
+publication_short = "Submitted to *ECML/PKDD*, 2019"
 
 # Abstract and optional shortened version.
 abstract = """
+Forecasting of multivariate time series data, for instance the prediction
+of electricity consumption, solar power production, and polyphonic piano
+pieces, has numerous valuable applications. However, complex and non-linear
+interdependencies between time steps and series complicate this task. To obtain
+accurate prediction, it is crucial to model long-term dependency in time
+series data, which can be achieved by recurrent neural networks (RNNs) with
+an attention mechanism. The typical attention mechanism reviews the information
+at each previous time step and selects relevant information to help
+generate the outputs; however, it fails to capture temporal patterns across
+multiple time steps. In this paper, we propose using a set of filters to extract
+time-invariant temporal patterns, similar to transforming time series data into
+its “frequency domain”. Then we propose a novel attention mechanism to select
+relevant time series, and use its frequency domain information for multivariate
+forecasting. We apply the proposed model on several real-world tasks
+and achieve state-of-the-art performance in all of these with a single exception.
+Our source code is available at https://github.com/gantheory/TPA-LSTM.
 """
 
 abstract_short = """
@@ -74,3 +90,7 @@ math = true
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Center"
 +++
+
+Link to the [paper](paper.pdf).
+
+Link to the [arxiv](https://arxiv.org/abs/1809.04206).

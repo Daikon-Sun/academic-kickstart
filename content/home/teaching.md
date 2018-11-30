@@ -18,8 +18,8 @@ date_format = "January 2006"
 
 [[experience]]
   title = "Algorithm Design and Analysis"
+  title_url = "https://www.csie.ntu.edu.tw/~yvchen/f107-ada/"
   company = "Prof. Yun-Nung Chen and Hsu-Chun Hsiao"
-  company_url = "https://www.csie.ntu.edu.tw/~yvchen/f107-ada/"
   location = "Taipei, Taiwan"
   date_start = "2018-09-18"
   date_end = ""
@@ -29,8 +29,8 @@ date_format = "January 2006"
 
 [[experience]]
   title = "Machine Learning and Having It Deep and Structured"
+  title_url = "http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html"
   company = "Prof. Hung-yi Lee"
-  company_url = "http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html"
   location = "Taipei, Taiwan"
   date_start = "2018-02-18"
   date_end = "2018-06-18"
@@ -41,8 +41,8 @@ date_format = "January 2006"
 
 [[experience]]
   title = "Machine Learning"
+  title_url = "http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html"
   company = "Prof. Hung-yi Lee"
-  company_url = "http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html"
   location = "Taipei, Taiwan"
   date_start = "2017-09-18"
   date_end = "2018-01-18"

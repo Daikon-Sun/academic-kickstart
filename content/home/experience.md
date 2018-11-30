@@ -22,79 +22,78 @@ date_format = "Jan, 2006"
 [[experience]]
   title = "Research Assistant"
   company = "Speech Processing and Machine Learning Lab, Prof. Hung-Yi Lee"
-  company_url = ""
+  company_url = "http://speech.ee.ntu.edu.tw/~tlkagk/research.html"
   location = "Taipei"
   date_start = "2016-09-01"
   date_end = ""
   description = """
-  Single-channel Multi-speaker Speech Separation (Ongoing)
+  **Single-channel Multi-speaker Speech Separation (Ongoing)**
 
-  * Attempts to solve the cock-tail problem by temporal convolutional network.
+  * Proposed to use the phase in complex domain to improve performance.
 
-  Modeling Multivariate Time Series
+  **Modeling Multivariate Time Series**
 
-  * Proposed the Temporal Pattern Attention for modeling multivariate time series.
-  * Classical attention mechanism can only capture few past events, but our attention is capable of capturing multiple past events.
-  * Our model achieves state-of-the-art on forecasting multivariate time series, including music notes.
+  * Proposed the temporal pattern attention for MTS forecasting which use CNNs to extract temporal patterns across multiple time steps, instead of a single time step as in traditional attention mechanisms.
+  * Verified by toy examples, our attention is able to attend on multiple time steps and handle interdependencies between series.
+  * Achieved state-of-the-art performance on a wide range of MTS datasets, including polyphonic music notes.
 
-  Natural Language Processing
+  **Natural Language Processing**
 
-  * Implemented a unsupervised machine translation model based on CycleGAN.
-  * Trained a chat-bot with reinforcement learning on the Cornell movie dialog corpus.
+  * Researched a chat-bot with seq2seq model with deep reinforcement learning on the Cornell movie dialog corpus.
+  * Researched the CycleGAN paradigm with LSTM to train unpaired machine translation.
 
   """
 
 [[experience]]
   title = "Undergraduate Researcher"
   company = "Speech Processing Lab, Prof. Lin-Shan Lee"
-  company_url = ""
+  company_url = "http://speech.ee.ntu.edu.tw/previous_version/index.htm"
   location = "Taipei"
   date_start = "2017-09-01"
   date_end = ""
   description = """
-  Reinforcement Learning for Online Games
+  **Reinforcing Reinforcement Learning by Rule-based Teacher**
 
-  * Trained a Slither.io agent by Asynchronous Advantage Actor Critic (A3C).
-  * The agent can efficiently eat candies while effectively dodge other players.
+  * Applied computer vision technique to guide a rule-based Slither.io agent.
+  * Researched the combination of a rule-based teacher to guide a  Slither.io agent} by Asynchronous Advantage Actor Critic (A3C) which surpassed rule-based model.
   """
 
 [[experience]]
   title = "Undergraduate Researcher"
   company = "Electronic Design Automation Lab, Prof. Yao-Wen Chang"
-  company_url = ""
+  company_url = "http://eda.ee.ntu.edu.tw/w04/index.php"
   location = "Taipei"
   date_start = "2016-07-02"
   date_end = ""
   description = """
-  Wirelength Model
+  **Bivariate Gradient-Based Wirelength Model**
 
-  * Proposed the first gradient-based wirelength model for global placement.
-  * Our wirelength model generates better solution on ISPD 2015 and 2016
-    benchmarks with NTUPlace3.
+  * Proposed a novel bivariate gradient-based wirelength model for global placement which combines the advantages of bivariate and multivariate functions.
+  * Our wirelength model outperforms previous bivariate and state-of-the-art multivariate wirelength models.
 
-  Bus Routing
+  **Topology-Matching Bus Routing**
 
-  * Participated in 2018 ICCAD constest on bus routing, and won top 10.
-  * Our router is based on the DAG-based topology-matching on-track bus routing algorithm.
+  * Proposed and implemented the DAG-based topology-matching bus routing engine and won the top 10 at 2018 ICCAD CAD contest.
+  * Our algorithm outperforms the all participants of 2018 ICCAD CAD contest, where the 1st place router result in 145% higher cost than ours.
 
-  Detailed Routing **[ICCAD 2018]**
+  **Detailed Routing** ***[ICCAD 2018]***
 
-  * Participated in ISPD 2018 initial detailed routing contest, and won 3rd Place.
-  * We are the first to achieve top 3 with pure undergraduates (excluding professor).
-  * We proposed the two-stage multi-threaded negotiation-based initial detailed routing algorithm.
+  * Proposed and implemented the multithreaded initial detailed routing engine that considers global guides and won the 3rd place at the 2018 ISPD contest.
+  * The multithreaded scheme speeds the engine up almost proportional to the number of threads.
+  * Our algorithm surpassed the winner of 2018 ISPD contest by 23%.
   """
 
 [[experience]]
   title = "Summer Intern"
   company = "Synopsys"
-  company_url = ""
+  company_url = "https://www.synopsys.com"
   location = "Hsin-Chu"
   date_start = "2016-07-01"
   date_end = "2016-08-31"
   description = """
-  Single Layer Global Routing
+  **Single Layer Global Routing**
 
-  * Implemented a single layer global routing algorithm based on mixture of previous literature and own thoughts.
+  * Researched and implemented a single layer global routing algorithm based on mixture of previous literature and own thoughts.
   * The algorithm successfully routed many real industrial cases.
   """
 

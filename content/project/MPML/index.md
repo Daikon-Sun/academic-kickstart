@@ -1,12 +1,12 @@
 +++
 # Project title.
-title = "Solving Multi-Armed Bandits by Upper Confidence Bound (UCB) Algorithms"
+title = "Solving Multi-Armed Bandits by Upper Confidence Bound (UCB) Algorithms [Technical Report]"
 
 # Date this page was created.
 date = 2018-11-03
 
 # Project summary to display on homepage.
-summary = "We survey starting from the original UCB, to improved versions (UCBV, improved-UCB), and end at the state-of-the-art method (EUCBV)."
+summary = "Our survey starts from the original UCB, to improved versions (UCBV, improved-UCB), and end at the state-of-the-art method (EUCBV)."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -32,7 +32,7 @@ Since the first paper about UCB [1] came out in 2002, there have been an ongoing
 In this paper, we survey starting from the original UCB [1], to improved versions UCBV [2], improved-UCB [3], and end at the state-of-the-art method [4].
 We also introduce the lower bound for a family of algorithms (consistent algorithms defined in [5]) and show the optimality of KL-UCB [6] in special case.
 
-Link to the [paper](paper.pdf).
+Link to the [technical report](technical_report.pdf).
 
 Link to the [slides](slides.pdf).
 
