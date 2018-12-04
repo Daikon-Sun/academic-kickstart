@@ -24,7 +24,7 @@ date_format = "January 2006"
   date_start = "2018-09-18"
   date_end = ""
   description = """
-  * Assign homework about graph theory.
+  * Design a homework about graph theory.
   """
 
 [[experience]]

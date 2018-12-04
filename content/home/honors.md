@@ -9,8 +9,7 @@ date = 2018-11-04
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Honors & Awards"
-subtitle = ""
-
+subtitle = "" 
 # Order that this section will appear in.
 weight = 66
 
@@ -32,18 +31,24 @@ weight = 66
 * **3rd Place**, Problem A at ICCAD CAD contest, 2018
 
 * **Top 10**, Problem B at ICCAD CAD contest, 2018
+
+* **Appier Scholarship**, Travel grant for ICCAD, 2018
  
 * **3rd Place (first pure-undergrad team in top 3 in 14 yrs)**, ISPD Contest, 2018
+
+* **Research Project Grant**,Taiwan Ministry of Science and Technology, 2017
  
 * **6th Place**, Data Structure and Programming Final Project Contest, 2016
 
 ## Others
 
+* **Outstanding Performance Scholarship**, National Taiwan University, 2018
+
 * **3rd Place (2 times)**, NTU ACM ICPC Ranking, 2016, 2017
  
 * **3rd Place**, National Collegiate Programming Contest, 2017
  
-* **3rd Place**, ACM ICPC Regional Contest, 2017
+* **Silver**, ACM ICPC Regional Contest, 2017
  
 * **1st Place**, ACM ICPC Regional Contest, 2016
  
