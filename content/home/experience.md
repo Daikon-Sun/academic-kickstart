@@ -74,7 +74,7 @@ date_format = "Jan, 2006"
   **Topology-Matching Bus Routing**
 
   * Proposed and implemented the DAG-based topology-matching bus routing engine and won the top 10 at 2018 ICCAD CAD contest.
-  * Our algorithm outperforms the all participants of 2018 ICCAD CAD contest, where the 1st place router result in 145% higher cost than ours.
+  * Our algorithm outperforms all participants of 2018 ICCAD CAD contest, where the 1st place router result in 145% higher cost than ours.
 
   **Detailed Routing** ***[ICCAD 2018]***
 

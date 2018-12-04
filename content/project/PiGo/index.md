@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Playing Against AlphaGo Zero on Raspberry Pi"
+title = "Playing Against AlphaGo Zero on Raspberry Pi [Demo]"
 
 # Date this page was created.
 date = 2018-11-03

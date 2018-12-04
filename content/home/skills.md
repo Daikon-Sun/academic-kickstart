@@ -41,7 +41,7 @@ weight = 67
 #   description = "10%"
 +++
 
-**Natural Languages**: Chinese (natvie), English (TOEFL 109, GRE 326 / 3.5)
+**Natural Languages**: Chinese (native), English (TOEFL 109, GRE 326 / 3.5)
 
 **Programming Languages**: Python, C/C++, Shell, Javascript, Matlab, LaTeX
 

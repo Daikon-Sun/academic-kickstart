@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Physical Design for Nanometer ICs"
+title = "Physical Design for Nanometer ICs [Code]"
 
 # Date this page was created.
 date = 2018-11-03

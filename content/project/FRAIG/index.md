@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Functionally Reduced And-Inverter Graph (FRAIG)"
+title = "Functionally Reduced And-Inverter Graph (FRAIG) [Report]"
 
 # Date this page was created.
 date = 2018-11-03
