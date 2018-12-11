@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Physical Design for Nanometer ICs [Code]"
+title = "Physical Design for Nanometer ICs"
 
 # Date this page was created.
 date = 2018-11-03
@@ -10,7 +10,7 @@ summary = "Four stages in Physical Design: (1) Partitioning, (2) Floorplanning, 
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["EDA"]
+tags = ["EDA", "Code"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

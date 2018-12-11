@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Playing Against AlphaGo Zero on Raspberry Pi [Demo]"
+title = "Playing Against AlphaGo Zero on Raspberry Pi"
 
 # Date this page was created.
 date = 2018-11-03
@@ -10,7 +10,7 @@ summary = "Playing Against AlphaGo Zero on Raspberry Pi"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["ML and DL"]
+tags = ["ML and DL", "Demo", "Report"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

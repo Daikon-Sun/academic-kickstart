@@ -44,5 +44,21 @@ filter_default = 0
   name = "Other"
   tag = "Other"
 
+# [[filter]]
+#   name = "Code"
+#   tag = "Code"
+# 
+# [[filter]]
+#   name = "Poster"
+#   tag = "Poster"
+# 
+# [[filter]]
+#   name = "Slides"
+#   tag = "Slides"
+# 
+# [[filter]]
+#   name = "Report"
+#   tag = "Report"
+
 +++
 

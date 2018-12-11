@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Functionally Reduced And-Inverter Graph (FRAIG) [Report]"
+title = "Functionally Reduced And-Inverter Graph (FRAIG)"
 
 # Date this page was created.
 date = 2018-11-03
@@ -10,7 +10,7 @@ summary = "Implemented a special circuit representation, FRAIG, from a circuit d
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["EDA"]
+tags = ["EDA", "Report", "Slides"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -41,4 +41,4 @@ My program ranks top 5% among more than a hundred of students.
 
 Link to the [report](report.pdf).
 
-Link to the [presentation](presentation.pdf).
+Link to the [slides](slides.pdf).

@@ -24,7 +24,7 @@ weight = 66
  
 * **Top 12**, Formosa Speech Grand Challenge - Talk to AI (Warm-Up Match), 2017
  
-* **National Technology and Science Scholarship**, CTCI, 2017
+* [**National Technology and Science Scholarship**, CTCI, 2017](/project/ctci)
 
 ## Electronic Design Automation
 
@@ -38,7 +38,7 @@ weight = 66
 
 * **Research Project Grant**,Taiwan Ministry of Science and Technology, 2017
  
-* **6th Place**, Data Structure and Programming Final Project Contest, 2016
+* [**6th Place**, Data Structure and Programming Final Project Contest, 2016](/img/dsnp.jpg)
 
 ## Others
 
@@ -50,8 +50,8 @@ weight = 66
  
 * **Silver**, ACM ICPC Regional Contest, 2017
  
-* **1st Place**, ACM ICPC Regional Contest, 2016
+* [**1st Place**, ACM ICPC Regional Contest, 2016](/img/icpc_manila.jpg)
  
-* **1st Place**, Calculus World Cup, 2016
+* [**1st Place**, Calculus World Cup, 2016](/img/calculus_world_cup.jpg)
  
 * **2nd Place**, Newcomers for ACM-ICPC Taiwan Online Programming Contest, 2016

@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Solving Multi-Armed Bandits by Upper Confidence Bound (UCB) Algorithms [Technical Report]"
+title = "Solving Multi-Armed Bandits by Upper Confidence Bound (UCB) Algorithms"
 
 # Date this page was created.
 date = 2018-11-03
@@ -10,7 +10,7 @@ summary = "Our survey starts from the original UCB, to improved versions (UCBV, 
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["ML and DL"]
+tags = ["ML and DL", "Report", "Slides"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
