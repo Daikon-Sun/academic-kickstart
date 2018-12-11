@@ -33,11 +33,11 @@ filter_default = 0
 #   tag = "*"
 
 [[filter]]
-  name = "Machine Learning & Deep Learning"
+  name = "ML/DL"
   tag = "ML and DL"
 
 [[filter]]
-  name = "Electronic Design Automation"
+  name = "EDA"
   tag = "EDA"
 
 [[filter]]

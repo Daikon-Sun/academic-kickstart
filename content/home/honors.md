@@ -34,7 +34,7 @@ weight = 66
 
 * **Appier Scholarship**, Travel grant for ICCAD, 2018
  
-* **3rd Place (first pure-undergrad team in top 3 in 14 yrs)**, ISPD Contest, 2018
+* [**3rd Place (first pure-undergrad team in top 3 in 14 yrs)**, ISPD Contest, 2018](/files/ispd.pdf)
 
 * **Research Project Grant**,Taiwan Ministry of Science and Technology, 2017
  
