@@ -9,7 +9,7 @@ date = 2018-11-04
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Honors & Awards"
-subtitle = "" 
+subtitle = " "
 # Order that this section will appear in.
 weight = 66
 
@@ -18,7 +18,7 @@ weight = 66
 # To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`.
 +++
 
-## Machine Learning / Deep Learning
+### Machine Learning / Deep Learning
 
 * **Semifinalist**, Formosa Speech Grand Challenge - Talk to AI, Ongoing
  
@@ -26,7 +26,7 @@ weight = 66
  
 * [**National Technology and Science Scholarship**, CTCI, 2017](/project/ctci)
 
-## Electronic Design Automation
+### Electronic Design Automation
 
 * **3rd Place**, Problem A at ICCAD CAD contest, 2018
 
@@ -40,7 +40,7 @@ weight = 66
  
 * [**6th Place**, Data Structure and Programming Final Project Contest, 2016](/img/dsnp.jpg)
 
-## Others
+### Others
 
 * **Outstanding Performance Scholarship**, National Taiwan University, 2018
 

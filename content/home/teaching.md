@@ -5,7 +5,6 @@
 # widget = "custom"
 widget = "experience"
 active = true
-date = 2016-04-20T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Teaching"
@@ -17,36 +16,43 @@ weight = 60
 date_format = "January 2006"
 
 [[experience]]
-  title = "Algorithm Design and Analysis"
-  title_url = "https://www.csie.ntu.edu.tw/~yvchen/f107-ada/"
-  company = "Prof. Yun-Nung Chen and Hsu-Chun Hsiao"
+  title = "Teaching Assistant"
+  company = "Algorithm Design and Analysis (Fall 2018)"
+  company_url = "https://www.csie.ntu.edu.tw/~yvchen/f107-ada/"
   location = "Taipei, Taiwan"
   date_start = "2018-09-18"
   date_end = ""
   description = """
-  * Design a homework about graph theory.
+  **Lecturer: Prof. Yun-Nung Chen and Hsu-Chun Hsiao**
+
+  * Designed a homework about graph theory.
   """
 
 [[experience]]
-  title = "Machine Learning and Having It Deep and Structured"
-  title_url = "http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html"
-  company = "Prof. Hung-yi Lee"
+  title = "Teaching Assistant"
+  company = "Machine Learning and Having It Deep and Structured (Spring 2018)"
+  company_url = "http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLDS18.html"
   location = "Taipei, Taiwan"
   date_start = "2018-02-18"
   date_end = "2018-06-18"
   description = """
+  **Lecturer: Prof. Hung-yi Lee**
+
   * Designed a new assignment about the mathematical complexity of deep learning models.
+
   * Designed a new assignment to observe the optimization process and convergence of deep learning models.
   """
 
 [[experience]]
-  title = "Machine Learning"
-  title_url = "http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html"
-  company = "Prof. Hung-yi Lee"
+  title = "Teaching Assistant (Fall 2017)"
+  company = "Machine Learning"
+  company_url = "http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html"
   location = "Taipei, Taiwan"
   date_start = "2017-09-18"
   date_end = "2018-01-18"
   description = """
+  **Lecturer: Prof. Hung-yi Lee**
+
   * Designed a new assignment about principal component analysis of colored images.
   """
 

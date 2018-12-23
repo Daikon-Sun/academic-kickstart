@@ -18,8 +18,8 @@ authors = ["**Fan-Keng Sun**", "Hao Chen", "Ching-Yu Chen", "Chen-Hao Hsu", "Yao
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Conference on Computer Aided Design*, 2018"
-publication_short = "In *ICCAD*"
+publication = "in *Proc. of IEEE/ACM International Conference on Computer-Aided Design (ICCAD-2018)*"
+publication_short = "in *ICCAD-2018*"
 
 # Abstract and optional shortened version.
 abstract = """

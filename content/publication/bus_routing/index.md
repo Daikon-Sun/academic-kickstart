@@ -18,8 +18,8 @@ authors = ["Chen-Hao Hsu", "Shao-Chun Hung", "Hao Chen", "**Fan-Keng Sun**", "Ya
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Submitted to *Design Automation Conference*, 2019"
-publication_short = "Submitted to *DAC*, 2019"
+publication = "submitted to *Proc. of ACM/IEEE Design Automation Conference (DAC-2019)*"
+publication_short = "submitted to *DAC-2019*"
 
 # Abstract and optional shortened version.
 abstract = """

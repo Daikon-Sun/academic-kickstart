@@ -25,7 +25,7 @@ weight = 5
 +++
 
 My name is Fan-Keng Sun (孫凡耕).
-I am a research assistant in the Speech Processing and Machine Learning Lab at NTU, under the supervision of [Prof. Hung-Yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/index.html) and [Prof. Lin-Shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm).
+I am a research assistant in the Speech Processing and Machine Learning Lab at NTU, under the supervision of [Prof. Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/index.html) and [Prof. Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm).
 I am also an undergraduate researcher in the Electronic Design Automation Lab at NTU, under the supervision of [Prof. Yao-Wen Chang](http://cc.ee.ntu.edu.tw/~ywchang/).
 
 My main interest lies in the intersections of machine learning (ML)/deep learning (DL), combinatorial optimization (CO), and electronic design automation (EDA), especially applying ML/DL algorithm to solve CO problem and its application to EDA.
