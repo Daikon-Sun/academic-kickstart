@@ -13,7 +13,7 @@ summary = "Four stages in Physical Design: (1) Partitioning, (2) Floorplanning, 
 tags = ["EDA", "Code"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+url_code = "https://github.com/Daikon-Sun/PD2017"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
@@ -36,5 +36,3 @@ The four stages are sorted in the order as if in actual design flow:
 <span style="font-size:0.9em;"> 3. Abacus-based Legalizer with exact cost for solving single-cell height legalization, </span>
 
 <span style="font-size:0.9em;"> 4. Efficient steiner tree construction based on spanning graphs. </span>
-
-Link to the [code](https://github.com/Daikon-Sun/PD2017) (including reports).

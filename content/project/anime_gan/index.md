@@ -10,16 +10,16 @@ summary = "Generate anime images from given input text by the well known text-to
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["ML and DL", "Poster"]
+tags = ["ML and DL"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+url_poster = "poster.pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "Comparison based on Saliency Map"
+  caption = "Example generated results."
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -32,5 +32,3 @@ Then, a series of five corresponding anime images is produced.
 In the second stage, we proceeded further by collecting more features from the dataset, and by feeding more complicated input sentence, desired feature is then learned by Conditional GAN.
 We were then able to synthesis anime character with glasses or no glasses, along with different hair styles.
 We had also learned the most commonly appeared 200 features from the dataset and generated relevant images.
-
-Link to the [poster](poster.pdf).

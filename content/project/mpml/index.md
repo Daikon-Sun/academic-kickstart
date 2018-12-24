@@ -10,10 +10,11 @@ summary = "Our survey starts from the original UCB, to improved versions (UCBV, 
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["ML and DL", "Report", "Slides"]
+tags = ["ML and DL"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+url_technical_report = "technical_report.pdf"
+url_slides = "slides.pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
@@ -31,10 +32,6 @@ Several algorithms have been proposed to tackle MAB problem, among them, algorit
 Since the first paper about UCB [1] came out in 2002, there have been an ongoing research (UCBV, improved-UCB, EUCBV, MOSS, OCUCB) in improving the strategy to obtain a lower regret bound.
 In this paper, we survey starting from the original UCB [1], to improved versions UCBV [2], improved-UCB [3], and end at the state-of-the-art method [4].
 We also introduce the lower bound for a family of algorithms (consistent algorithms defined in [5]) and show the optimality of KL-UCB [6] in special case.
-
-Link to the [technical report](technical_report.pdf).
-
-Link to the [slides](slides.pdf).
 
 #### Reference:
 [1] [Finite-time Analysis of the Multiarmed Bandit Problem](https://dl.acm.org/citation.cfm?id=599677), Auer P.; and Cesa-Bianchi N., In *Journal of Machine Learning, 2002*.

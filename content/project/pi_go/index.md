@@ -10,10 +10,11 @@ summary = "Playing Against AlphaGo Zero on Raspberry Pi"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["ML and DL", "Demo", "Report"]
+tags = ["ML and DL"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+url_report = "report.pdf"
+url_video = "https://drive.google.com/open?id=1caNG0tRBhQVUOxDP0oUImphVO8APv0h6"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
@@ -31,7 +32,3 @@ An user can play againt Alpha-Go on a Raspberry Pi (RPi) with a touch screen.
 If there is Internet connection, the RPi is connected to a server with GPU, and the communication is defined by the [GTP protocol (ver 2)](https://www.lysator.liu.se/~gunnar/gtp/gtp2-spec-draft2/gtp2-spec.html).
 Otherwise, the user can play against a weaker version of AlphaGo Zero locally.
 A chatroom is also implemented so that two humans can play Go together.
-
-Link to the [report](report.pdf).
-
-Link to the [demo](https://drive.google.com/open?id=1caNG0tRBhQVUOxDP0oUImphVO8APv0h6).

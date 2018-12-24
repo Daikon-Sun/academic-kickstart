@@ -34,24 +34,24 @@ weight = 66
 
 * **Appier Scholarship**, Travel grant for ICCAD, 2018
  
-* [**3rd Place (first pure-undergrad team in top 3 in 14 yrs)**, ISPD Contest, 2018](/files/ispd.pdf)
+* [**3rd Place (first pure-undergrad team in top 3 in 14 yrs)**, ISPD Contest, 2018](/files/honors/ispd.pdf)
 
 * **Research Project Grant**,Taiwan Ministry of Science and Technology, 2017
  
-* [**6th Place**, Data Structure and Programming Final Project Contest, 2016](/img/dsnp.jpg)
+* [**6th Place**, Data Structure and Programming Final Project Contest, 2016](/img/honors/dsnp.jpg)
 
 ### Others
 
 * **Outstanding Performance Scholarship**, National Taiwan University, 2018
 
-* **3rd Place (2 times)**, NTU ACM ICPC Ranking, 2016, 2017
+* [**3rd Place (2 times)**, NTU ACM ICPC Ranking, 2016, 2017](/img/honors/ntu_pk.png)
  
 * **3rd Place**, National Collegiate Programming Contest, 2017
  
 * **Silver**, ACM ICPC Regional Contest, 2017
  
-* [**1st Place**, ACM ICPC Regional Contest, 2016](/img/icpc_manila.jpg)
+* [**1st Place**, ACM ICPC Regional Contest, 2016](/img/honors/icpc_manila.jpg)
  
-* [**1st Place**, Calculus World Cup, 2016](/img/calculus_world_cup.jpg)
+* [**1st Place**, Calculus World Cup, 2016](/img/honors/calculus_world_cup.jpg)
  
 * **2nd Place**, Newcomers for ACM-ICPC Taiwan Online Programming Contest, 2016

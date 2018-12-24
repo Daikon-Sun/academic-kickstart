@@ -10,10 +10,11 @@ summary = "Implemented a special circuit representation, FRAIG, from a circuit d
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["EDA", "Report", "Slides"]
+tags = ["EDA"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+url_report = "report.pdf"
+url_slides = "slides.pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
@@ -38,7 +39,3 @@ The program performs the following processes:
 * Use a boolean satisfiability solver to formally prove or disprove FEC pair and merge equivalent gates.
 
 My program ranks top 5% among more than a hundred of students.
-
-Link to the [report](report.pdf).
-
-Link to the [slides](slides.pdf).

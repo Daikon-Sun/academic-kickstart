@@ -10,16 +10,17 @@ summary = "High dynamic range (HDR) imaging from a series of photographs under v
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Other", "Code", "Report"]
+tags = ["Other"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+url_code = "https://github.com/Daikon-Sun/VFX2017/tree/master/hw1"
+url_report = "report.pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "HDR result"
+  caption = "HDR result filmed at Treasure Hill, Taipei, Taiwan."
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -37,6 +38,3 @@ The features we have implemented are:
 * Blob removal: rule-based method.
 * Ghost removal: EA Khan's method.
 
-Link to our [code](https://github.com/Daikon-Sun/VFX2017/tree/master/hw1).
-
-Link to our [report](report.pdf).

@@ -18,8 +18,8 @@ authors = ["Shun-Yao Shih * ", "**Fan-Keng Sun** * ", "Hung-Yi Lee ( * denotes e
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "submitted to *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML/PKDD-2019)*"
-publication_short = "submitted to *ECML/PKDD-2019*"
+publication = "Submitted to *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML/PKDD-2019)*"
+publication_short = "Submitted to *ECML/PKDD-2019*"
 
 # Abstract and optional shortened version.
 abstract = """
@@ -42,6 +42,7 @@ Our source code is available at https://github.com/gantheory/TPA-LSTM.
 """
 
 abstract_short = """
+Forecasting of multivariate time series data has numerous valuable applications, but complex interdependencies complicate this task.
 """
 
 # Is this a selected publication? (true/false)

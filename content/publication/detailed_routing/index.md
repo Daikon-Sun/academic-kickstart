@@ -18,8 +18,8 @@ authors = ["**Fan-Keng Sun**", "Hao Chen", "Ching-Yu Chen", "Chen-Hao Hsu", "Yao
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "in *Proc. of IEEE/ACM International Conference on Computer-Aided Design (ICCAD-2018)*"
-publication_short = "in *ICCAD-2018*"
+publication = "In *Proc. of IEEE/ACM International Conference on Computer-Aided Design (ICCAD-2018)*"
+publication_short = "In *ICCAD-2018*"
 
 # Abstract and optional shortened version.
 abstract = """
@@ -34,7 +34,7 @@ Experimental results show that our router outperforms all the winning teams of t
 """
 
 abstract_short = """
-Detailed routing is the most complicated and time-consuming stage in VLSI design and has become a critical process for advanced node enablement.
+Detailed routing is the most complicated stage in VLSI design and has become a critical process for advanced node enablement.
 """
 
 # Is this a selected publication? (true/false)

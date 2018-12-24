@@ -10,10 +10,11 @@ summary = "In our final project, we organize all common methods to visualize and
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["ML and DL", "Poster", "Report"]
+tags = ["ML and DL"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+url_poster = "poster.pdf"
+url_report = "https://ntumlds.wordpress.com/2017/03/27/b03901056_%E5%9F%B9%E5%82%91%E8%88%87%E9%A0%86%E8%80%80"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
@@ -41,8 +42,3 @@ In this project, we discuss and compare different methods of visualization on va
 * Saliency Map: Calculate the gradient of a score model for a class with respect to the input image.
 * Deep Generator Network (DGN): Use a pretrained image generator instead of hand-crafted priors.
 * Plug-and-Play Generative Networks (PPGN): Improve from DGN using denoising autoencoder to restrict the input-code space.
-
-Link to the [poster](poster.pdf).
-
-Link to the
-[report](https://ntumlds.wordpress.com/2017/03/27/b03901056_%E5%9F%B9%E5%82%91%E8%88%87%E9%A0%86%E8%80%80).

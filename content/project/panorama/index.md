@@ -8,13 +8,13 @@ date = 2018-11-03
 # Project summary to display on homepage.
 summary = "Image stitching (Panorama) to form a wide-angle view of physical space using OpenCV"
 
-
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Other", "Code"]
+tags = ["Other"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+url_code = "https://github.com/Daikon-Sun/VFX2017/tree/master/hw2"
+url_report = "report.pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
@@ -35,7 +35,3 @@ The following feature-based process is run through in the order to create panora
 * Projection: cylindrical projection.
 * Image stitching: bundle adjustment.
 * Blending: multi-band blending.
-
-Link to the [code](https://github.com/Daikon-Sun/VFX2017/tree/master/hw2).
-
-Link to the [report](report.pdf).

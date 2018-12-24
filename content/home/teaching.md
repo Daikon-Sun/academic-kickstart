@@ -13,7 +13,7 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 60
 
-date_format = "January 2006"
+date_format = "01/2006"
 
 [[experience]]
   title = "Teaching Assistant"
@@ -44,8 +44,8 @@ date_format = "January 2006"
   """
 
 [[experience]]
-  title = "Teaching Assistant (Fall 2017)"
-  company = "Machine Learning"
+  title = "Teaching Assistant"
+  company = "Machine Learning (Fall 2017)"
   company_url = "http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML17_2.html"
   location = "Taipei, Taiwan"
   date_start = "2017-09-18"
