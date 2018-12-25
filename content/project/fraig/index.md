@@ -15,6 +15,7 @@ tags = ["EDA"]
 # Optional external URL for project (replaces project detail page).
 url_report = "report.pdf"
 url_slides = "slides.pdf"
+url_code = "https://github.com/Daikon-Sun/FRAIG"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
