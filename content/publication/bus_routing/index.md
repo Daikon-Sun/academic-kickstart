@@ -1,5 +1,5 @@
 +++
-title = "Anonymous Title"
+title = "A DAG-Based Algorithm for Obstacle-Aware Topology-Matching On-Track Bus Routing"
 date = 2018-11-02
 draft = false
 
@@ -18,8 +18,8 @@ authors = ["Chen-Hao Hsu", "Shao-Chun Hung", "Hao Chen", "**Fan-Keng Sun**", "Ya
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Submitted to *Proc. of ACM/IEEE Design Automation Conference (DAC-2019)*"
-publication_short = "Submitted to *DAC-2019*"
+publication = "In *Proc. of ACM/IEEE Design Automation Conference (DAC-2019)*"
+publication_short = "In *DAC-2019*"
 
 # Abstract and optional shortened version.
 abstract = """
@@ -68,7 +68,7 @@ math = true
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "Routing solution by our router"
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight

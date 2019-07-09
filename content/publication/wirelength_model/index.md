@@ -1,5 +1,5 @@
 +++
-title = "Anonymous Title"
+title = "BiG: A Bivariate Gradient-Based Wirelength Model for Analytical Circuit Placement"
 date = 2018-11-02
 draft = false
 
@@ -18,8 +18,8 @@ authors = ["**Fan-Keng Sun**", "Yao-Wen Chang"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Submitted to *Proc. of ACM/IEEE Design Automation Conference (DAC-2019)*"
-publication_short = "Submitted to *DAC-2019*"
+publication = "In *Proc. of ACM/IEEE Design Automation Conference (DAC-2019)*"
+publication_short = "In *DAC-2019*"
 
 # Abstract and optional shortened version.
 abstract = """

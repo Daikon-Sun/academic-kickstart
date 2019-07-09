@@ -10,9 +10,9 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Machine/Deep Learning",
+    "Machine Learning/Deep Learning",
     "Electronic Design Automation",
-    "Combinatorial Optimization"
+    "Computer System"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -28,6 +28,6 @@ My name is Fan-Keng Sun (孫凡耕).
 I am a research assistant in the Speech Processing and Machine Learning Lab at [National Taiwan University](http://www.ntu.edu.tw/english), under the supervision of [Prof. Hung-yi Lee](http://speech.ee.ntu.edu.tw/~tlkagk/index.html) and [Prof. Lin-shan Lee](http://speech.ee.ntu.edu.tw/previous_version/lslNew.htm).
 I am also an undergraduate researcher in the Electronic Design Automation Lab at NTU, under the supervision of [Prof. Yao-Wen Chang](http://cc.ee.ntu.edu.tw/~ywchang/).
 
-My main interest lies in the intersections of machine learning (ML)/deep learning (DL), combinatorial optimization (CO), and electronic design automation (EDA), especially applying ML/DL algorithm to solve CO problem and its application to EDA.
+My main interest lies in the intersections of machine learning (ML)/deep learning (DL), electronic design automation (EDA), and computer system.
 
 Here is my [Curriculum Vitae](https://daikon-sun.github.io/files/cv.pdf).

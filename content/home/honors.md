@@ -20,15 +20,14 @@ weight = 66
 
 ### Machine Learning / Deep Learning
 
-* **Semifinalist**, Formosa Speech Grand Challenge - Talk to AI, Ongoing
- 
-* **Top 12**, Formosa Speech Grand Challenge - Talk to AI (Warm-Up Match), 2017
+* **Top 12 (out of 149)**, Formosa Speech Grand Challenge - Talk to AI (Warm-Up Match), 2017
  
 * [**National Technology and Science Scholarship**, CTCI, 2017](/project/ctci)
 
 ### Electronic Design Automation
 
-* **3rd Place**, Problem A at ICCAD CAD contest, 2018
+* [**3rd Place**, Problem A at ICCAD CAD contest,
+  2018](/img/honors/iccad_top3.jpg)
 
 * **Top 10**, Problem B at ICCAD CAD contest, 2018
 
@@ -38,7 +37,7 @@ weight = 66
 
 * **Research Project Grant**,Taiwan Ministry of Science and Technology, 2017
  
-* [**6th Place**, Data Structure and Programming Final Project Contest, 2016](/img/honors/dsnp.jpg)
+* [**6th Place (out of 115)**, Data Structure and Programming Final Project Contest, 2016](/img/honors/dsnp.jpg)
 
 ### Others
 

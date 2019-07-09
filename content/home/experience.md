@@ -31,7 +31,7 @@ date_format = "01/2006"
     
   * Proposed to use the *phase information in complex domain* to improve performance.
   
-  **Multivariate Time Series (MTS) Forecasting** ***[submitted to ECML/PKDD 19]***
+  **Multivariate Time Series (MTS) Forecasting** ***[Journal track of the ECML/PKDD-19]***
 
   * Proposed the *temporal pattern attention for MTS forecasting*, which use CNNs to extract *temporal patterns across multiple time steps* instead of a single time step as in traditional attention mechanisms.
   * Verified by experiments, our attention is able to attend multiple time steps and handle interdependencies between series.
@@ -54,17 +54,17 @@ date_format = "01/2006"
   date_start = "2016-07-02"
   date_end = ""
   description = """
-  **Bivariate Gradient-based Wirelength Model** ***[submitted to DAC 19]***
+  **Bivariate Gradient-based Wirelength Model** ***[DAC-19]***
 
   * Proposed a *novel bivariate gradient-based wirelength model* for global placement that combines the *advantages of bivariate and multivariate functions*.
   * Outperformed previous bivariate and state-of-the-art multivariate wirelength models.
   
-  **Topology-Matching Bus Routing** ***[submitted to DAC 19]***
+  **Topology-Matching Bus Routing** ***[DAC-19]***
 
   * Proposed and implemented the *DAG-based topology-matching bus routing engine* and won the top 10 at 2018 ICCAD CAD contest.
   * Outperformed all participants of 2018 ICCAD CAD contest, where the 1st place router resulted in 145% higher cost.
   
-  **Initial Detailed Routing** ***[ICCAD 18]***
+  **Initial Detailed Routing** ***[ICCAD-18]***
 
   * Proposed and implemented the *multithreaded initial detailed routing engine that considers global guides* and won the 3rd place at the 2018 ISPD contest.
   * Accelerated the engine almost proportional to the number of threads.

@@ -11,7 +11,7 @@ title = "Teaching"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 60
+weight = 30
 
 date_format = "01/2006"
 
@@ -21,7 +21,7 @@ date_format = "01/2006"
   company_url = "https://www.csie.ntu.edu.tw/~yvchen/f107-ada/"
   location = "Taipei, Taiwan"
   date_start = "2018-09-18"
-  date_end = ""
+  date_end = "2019-01-18"
   description = """
   **Lecturer: Prof. Yun-Nung Chen and Hsu-Chun Hsiao**
 

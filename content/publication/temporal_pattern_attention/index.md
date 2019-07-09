@@ -18,8 +18,8 @@ authors = ["Shun-Yao Shih * ", "**Fan-Keng Sun** * ", "Hung-Yi Lee ( * denotes e
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Submitted to *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML/PKDD-2019)*"
-publication_short = "Submitted to *ECML/PKDD-2019*"
+publication = "Journal track of the *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML/PKDD-2019)*"
+publication_short = "Journal track of the *ECML/PKDD-2019*"
 
 # Abstract and optional shortened version.
 abstract = """
